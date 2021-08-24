@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Uraaz Gorimar
 ##### Student
-![Student](https://github.com/urochurro/urochurro/blob/main/banner.png?raw=true)
+![picture](https://github.com/urochurro/urochurro/blob/main/banner.png?raw=true)
 
 I'm Uraaz from India, and I am currently pursuing my BTech Degree in computer science. I really enjoy learning new languages and improving on known ones. I also enjoy Machine Learning and Artificial Intelligence and want to learn more about them.
 
