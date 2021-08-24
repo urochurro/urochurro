@@ -19,3 +19,4 @@ Skills: Python / Node.js / Express JS / REACT / JS / HTML / CSS / Java / C / C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=urochurro&show_icons=true&count_private=true&theme=dark)  
 
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=urochurro)
