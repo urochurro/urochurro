@@ -1,21 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Uraaz Gorimar
+##### Student
+![Student](https://github.com/urochurro/urochurro/blob/main/banner.png?raw=true)
 
-<!--
-**urochurro/urochurro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Uraaz from India, and I am currently pursuing my BTech Degree in computer science. I really enjoy learning new languages and improving on known ones. I also enjoy Machine Learning and Artificial Intelligence and want to learn more about them.
 
-Here are some ideas to get you started:
+Skills: Python / Node.js / Express JS / REACT / JS / HTML / CSS / Java / C / C++ / MySQL / MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning TensorFlow. 
+- 💬 Ask me about my college projects. 
+- 📫 How to reach me: Email / Linkedin. 
+- ⚡ Fun fact: I love talking. 
 
-I'm Uraaz from India, and I am currently pursuing my BTech Degree in computer science. I really enjoy learning new languages and improving on known ones. I also enjoy Machine Learning and Artificial Intelligence and want to go deeper into them.
 
-![Uraaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=urochurro&count_private=true&show_icons=true&theme=dark)
- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/urochurro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uraazgorimar/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urochurro)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=urochurro&show_icons=true&count_private=true&theme=dark)  
+
