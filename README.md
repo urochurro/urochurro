@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm Uraaz from India, and I am currently pursuing my BTech Degree in computer science. I really enjoy learning new languages and improving on known ones. I also enjoy Machine Learning and Artificial Intelligence and want to go deeper into them.
 
-[![Uraaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=urochurro&show_icons=true&theme=radical)]
+![Uraaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=urochurro&count_private=true&show_icons=true&theme=dark)
  
