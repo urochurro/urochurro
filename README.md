@@ -12,6 +12,8 @@ Skills: Python / Node.js / Express JS / REACT / JS / HTML / CSS / Java / C / C++
 - 📫 How to reach me: Email / Linkedin. 
 - ⚡ Fun fact: I love talking. 
 
+<a href="https://app.daily.dev/studbutt"><img src="https://api.daily.dev/devcards/db70837364bc4f4bac97d494c83ba285.png?r=ujx" width="400" alt="Uraaz's Dev Card"/></a>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=urochurro&show_icons=true&count_private=true&theme=dark)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urochurro)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
