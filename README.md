@@ -4,7 +4,7 @@
 
 I'm Uraaz from India, and I am currently pursuing my BTech Degree in computer science. I really enjoy learning new languages and improving on known ones. I also enjoy Machine Learning and Artificial Intelligence and want to learn more about them.
 
-Skills: Python / Node.js / Express JS / REACT / JS / HTML / CSS / Java / C / C++ / MySQL / MongoDB
+Skills: Python / Django / Node.js / Express JS / REACT / JS / HTML / CSS / Java / C / C++ / MySQL / MongoDB
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TensorFlow. 
