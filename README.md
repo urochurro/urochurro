@@ -12,7 +12,7 @@ Skills: Python / Django / Node.js / Express JS / REACT / JS / HTML / CSS / Java 
 - 📫 How to reach me: Email / Linkedin. 
 - ⚡ Fun fact: I love talking. 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=urochurro&show_icons=true&count_private=true&theme=dark)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=urochurro&show_icons=true&count_private=true&theme=dark)  -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urochurro)](https://github.com/anuraghazra/github-readme-stats&theme=dark) -->
 
