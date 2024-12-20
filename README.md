@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/urochurro/urochurro/blob/main/banner.png?raw=true)
 
-I'm Uraaz from India, and I am currently pursuing my BTech Degree in computer science. I really enjoy learning new languages and improving on known ones. I also enjoy Machine Learning and Artificial Intelligence and want to learn more about them.
+I'm Uraaz from India, and I am currently pursuing my Masters in computer science at University of Southern California. I really enjoy learning new languages and improving on known ones. I also enjoy Machine Learning and Artificial Intelligence and want to dive deeper into the realm.
 
 Skills: Python / Django / Node.js / Express JS / REACT / JS / HTML / CSS / Java / C / C++ / MySQL / MongoDB
 
